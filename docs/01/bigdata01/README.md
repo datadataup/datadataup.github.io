@@ -94,7 +94,7 @@
             - 1st replica on the local. 2nd on the local but different node. 3rd on the different rack(当
             地的第一个复制品。 在本地但不同的节点上排名第二。 第三个在不同的机架上)
 
-## Hadoop High Availability(高可用性)
+## Hadoop High Availability 高可用性
 * HDFS联合通过在多个分隔的NameNode上对文件系统命名空间进行分区
 - Active and Standby NNs share the storage for edit logs; (共享存储以进行编辑日志)
 
@@ -105,9 +105,8 @@
 ![](../../pic/01/writefile.png)
 
 ## Hdfs Command Examples 命令样例
+[>>官方命令样例](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
 
 ![](../../pic/01/HDFS%E5%91%BD%E4%BB%A4.png)
 
-* 官方命令
-
-[URL](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
+## Hadoop集群配置
