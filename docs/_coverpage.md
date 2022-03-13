@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](/logo1.jpg)
+![logo](pic/logo1.jpg)
 
 # docsify <small>3.5</small>
 
@@ -10,5 +10,5 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/datadataup/datadataup.github.io)
 [Get Started](/README)
