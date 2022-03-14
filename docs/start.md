@@ -3,9 +3,9 @@
 > An awesome project.
 
 - [开始页](/)
-* [TIP](/tip/)
+<!-- * [TIP](/tip/) -->
 
-* [数据库](/self/database/learn)
+<!-- * [数据库](/self/database/learn) -->
 
-* [计算机网络](/self/network/learn)
+<!-- * [计算机网络](/self/network/learn) -->
  
