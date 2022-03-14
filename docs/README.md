@@ -1,4 +1,0 @@
-# NOTEWORK
-
-> An awesome project.
-
