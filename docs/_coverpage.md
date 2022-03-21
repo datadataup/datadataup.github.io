@@ -11,5 +11,5 @@
 - 众多主题 -->
 
 
-[GitHub](https://github.com/datadataup/datadataup.github.io)
+<!-- [GitHub](https://github.com/datadataup/datadataup.github.io) -->
 [Get Started](/start)
